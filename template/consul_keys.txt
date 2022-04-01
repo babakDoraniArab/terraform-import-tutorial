@@ -1,0 +1,14 @@
+this file is temp and you can store your tokens like me for the test area. 
+Marry is Network admin and it has read and write access on Network path 
+Sally is Developer, she has read access on Network path and read/write access on application path.
+
+
+
+Admin
+export CONSUL_HTTP_TOKEN=9ff1cf9d-2e50-acb0-9d6e-8280fd926328
+
+Marry token Id 
+export CONSUL_HTTP_TOKEN=f6845bf2-e997-8c62-3f2b-ab1d05f3c4a2
+
+sally sue token Id 
+export CONSUL_HTTP_TOKEN=f6845bf2-e997-8c62-3f2b-ab1d05f3c4a2
