@@ -1,16 +1,16 @@
-# Ansible-tutorial
+# Terraform Import Tutorial
 
 <p align="center">
  <img alt="Terraform import Logo" src="image/terraform-import.webp">
 </p>
 
-**This Repo contains many sample codes with explainations (Linux Configuration Managemnet)to help you find your need of ansible very easily and in a structured manner.**
+**This Repo contains many sample codes with explainations (Linux Configuration Managemnet)to help you find your need of Terraform import very easily and in a structured manner.**
 
 ## Published articles:
 
- - [Ansible Tutorial - Part 0 - Getting Ready to Ansible]()
+ - [Terraform import Tutorial - Part 0 - Getting Ready to Terraform import]()
 
- - [Ansible Tutorial - Part 1 - User Management]()
+ - [Terraform import Tutorial - Part 1 - User Management]()
 
 
 ## Contributions:
@@ -21,6 +21,6 @@ If you find any **bugs** in the examples, please file an issue.
 
 ### TODO:
 
- - [ ] Adding Ansible ...
- - [ ] Adding Ansible ...
+ - [ ] Adding Terraform import ...
+ - [ ] Adding Terraform import ...
 
